@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <H1>{data}</H1>;
+  return <h1>{data}</h1>;
 }
 
 export default App;
